@@ -1,0 +1,19 @@
+# Папки сборки .NET
+bin/
+obj/
+
+# Файлы Visual Studio
+.vs/
+*.user
+*.suo
+
+# Файл базы данных SQLite (создаётся автоматически при запуске)
+*.db
+*.db-shm
+*.db-wal
+
+# Файлы Rider / JetBrains
+.idea/
+
+# Публикация
+publish/
